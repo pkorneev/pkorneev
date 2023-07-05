@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning web development
+👯 I’m looking for an internship or part-time job to gain experience
 <!--
 **pkorneev/pkorneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
