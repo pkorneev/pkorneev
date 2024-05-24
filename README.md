@@ -1,7 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning web development
-
-👯 Working as a Frontend developer
+🌱 I’m currently working as a Frontend developer
 <!--
 **pkorneev/pkorneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
