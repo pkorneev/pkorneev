@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently working as a Frontend developer
+🌱 I’m currently working as a Frontend Software Engineer
+🌱 I’m also finishing my computer science bachelor's degree in VUT
 <!--
 **pkorneev/pkorneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
