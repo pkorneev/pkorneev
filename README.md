@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently working as a Frontend Software Engineer at Jamf and Septim.
+🌱 I’m currently working as a Software Engineer at Jamf.
 
 🔭 I’m also finishing my computer science bachelor's degree in VUT.
 
