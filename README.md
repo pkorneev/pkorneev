@@ -1,8 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently working as a Software Engineer at Jamf.
 
-🔭 I’m also finishing my computer science bachelor's degree in VUT.
-
 ## 🛠️ Skills
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
