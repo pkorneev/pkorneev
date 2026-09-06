@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently working as a Software Engineer at Jamf.
+🌱 I’m currently working as an AI Engineer at Veeam.
 
 ## 🛠️ Skills
 
